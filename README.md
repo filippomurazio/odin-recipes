@@ -1,3 +1,3 @@
 # odin-recipes
 
-# Currently setting up Odin Project repository. This place will house all of my projects at Odin.
+This is a simple recipe page made using html!
